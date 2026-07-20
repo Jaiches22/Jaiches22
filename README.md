@@ -27,7 +27,7 @@ Computer Engineering graduate (ULPGC) heading into **cloud pre-sales and solutio
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
 
-Cloud & IaC: AWS, CloudFormation, Docker, Linux — currently deepening my AWS knowledge.
+Cloud & IaC: AWS, CloudFormation, Docker, Linux — AWS-focused on architecture, IaC and cost optimisation.
 
 ---
 
