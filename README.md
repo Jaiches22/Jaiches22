@@ -1,9 +1,9 @@
 ## Jaime Calzada Sánchez
 
-Computer Engineering graduate (ULPGC) heading into **cloud pre-sales and solutions architecture**. I like the space where technical depth meets talking to people: designing on AWS, weighing the trade-offs, and explaining *why* one architecture beats another — cost included.
+Computer Engineering graduate (ULPGC) moving into **cloud solutions architecture** on AWS. I like the space where technical depth meets talking to people: designing systems, weighing the trade-offs, and explaining *why* one architecture beats another — cost included.
 
-**Focus:** AWS · Solutions Architecture · Pre-Sales / Sales Engineering
-**Also into:** cybersecurity, DevOps, and secure, scalable backend design
+**Focus:** AWS Solutions Architecture · Cloud Design · Cost Optimisation
+**Also comfortable in:** pre-sales / sales engineering, DevOps, cybersecurity
 
 ---
 
@@ -27,7 +27,7 @@ Computer Engineering graduate (ULPGC) heading into **cloud pre-sales and solutio
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
 
-Cloud & IaC: AWS, CloudFormation, Docker, Linux — AWS-focused on architecture, IaC and cost optimisation.
+Cloud & IaC: AWS, CloudFormation, Docker, Linux — focused on architecture, IaC and cost optimisation.
 
 ---
 
